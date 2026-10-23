@@ -41,5 +41,5 @@ dist/
 
 *.tar
 
-
+/prices
 node_modules/
