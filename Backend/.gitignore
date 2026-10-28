@@ -43,3 +43,6 @@ dist/
 
 /prices
 node_modules/
+/modules
+/config
+/rest
